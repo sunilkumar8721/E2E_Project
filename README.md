@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure End to End Data Engineering Pipeline
 
 This project builds an End-to-End Azure Data Engineering Solution. A Pipeline performing Data Ingestion, ETL and Analytics all-in-one solution using Microsoft Azure Services and Power BI.
@@ -130,3 +131,7 @@ Thus, whoever belonging to the Security group can access and contribute to the p
 
 Project done by Balachandar.S
 
+=======
+# E2E_Project
+E2E_Project
+>>>>>>> 7c056714998c054cce25da81dba702642edfa12f
